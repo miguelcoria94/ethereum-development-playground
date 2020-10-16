@@ -28,4 +28,8 @@ Blocks have hashes of previous Blocks(they are chained together)
 
 the most popular -- compared to JS
 
+the smart contracts are running on the blockchain
 
+they are turing complete
+
+the structure looks familiar
