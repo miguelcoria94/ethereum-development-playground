@@ -18,4 +18,14 @@ Blocks have hashes of previous Blocks(they are chained together)
 
 -Changing information in a previous block changes all blocks thereafter
 
+*** smart contract ***
+
+- a piece of code running on the blockchain
+
+- state change happens through transactions
+
+*** Solidity ***
+
+the most popular -- compared to JS
+
 
