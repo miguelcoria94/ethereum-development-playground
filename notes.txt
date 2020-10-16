@@ -1,0 +1,9 @@
+-Transaction signatures ensure authenticity of transactions
+
+-Signatures are generated from private keys
+
+-Public keys and addresses are generated from private keys
+
+-Private keys have to be kept safe under under all circumstances
+
+-Public keys are longer versions of the address
