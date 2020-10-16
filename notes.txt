@@ -33,3 +33,20 @@ the smart contracts are running on the blockchain
 they are turing complete
 
 the structure looks familiar
+
+
+*** Ethereum Network ***
+
+All: Ethereum Protocal
+-same way of storing data
+-same way of accessing data
+
+Live Network
+-Real Money. Why? We agreed upon it.
+
+Test Networks
+-Test smart contracts
+-Test Protocal updates
+
+Private Networks
+-run your own blockchain
