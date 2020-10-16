@@ -7,3 +7,15 @@
 -Private keys have to be kept safe under under all circumstances
 
 -Public keys are longer versions of the address
+
+***Cryptographic Hashing***
+
+input --> function --> digest
+
+-Hashing is the mathematical foundation of blockchains
+
+Blocks have hashes of previous Blocks(they are chained together)
+
+-Changing information in a previous block changes all blocks thereafter
+
+
